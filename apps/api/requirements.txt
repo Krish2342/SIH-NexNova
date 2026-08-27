@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+google-genai
+mistralai
+openai
+sentence-transformers
+supabase
+httpx
+numpy
